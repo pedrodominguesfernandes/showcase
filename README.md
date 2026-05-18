@@ -1,2 +1,2 @@
 # showcase
-Some information from the private projects I have here
+Some information from private projects I have in GitHub
