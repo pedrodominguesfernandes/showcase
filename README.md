@@ -1,2 +1,2 @@
 # showcase
-Just a public projects among the private ones I have in GitHub
+Just a public project among the private ones I have in GitHub
