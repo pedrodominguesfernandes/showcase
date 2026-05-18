@@ -9,8 +9,13 @@ I believe high-performing engineering teams are built on trust, clarity, and sol
 Leadership focus areas:
 
 •	Engineering team leadership and mentoring
+
 •	Hiring, team scaling, and performance management
+
 •	Backend architecture and technical strategy
+
 •	Agile delivery and execution predictability
+
 •	Cross-functional collaboration and stakeholder alignment
+
 •	Balancing technical debt, delivery speed, and business needs
